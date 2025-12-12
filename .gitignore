@@ -1,0 +1,15 @@
+# File temporanei e di sistema
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+
+# Dipendenze (se mai le aggiungerai con npm)
+/node_modules
+
+# File di configurazione dell'editor (es. VS Code)
+.vscode/
+
+# File di log e cache
+*.log
+npm-debug.log*
